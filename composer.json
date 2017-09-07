@@ -1,0 +1,11 @@
+{
+    "name": "SCFR/AutoTradTeam",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "SCFR\\AutoTradTeam\\": [
+                "src/"
+            ]
+        }
+    }
+}
